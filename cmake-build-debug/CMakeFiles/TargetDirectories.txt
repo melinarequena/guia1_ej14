@@ -1,0 +1,3 @@
+C:/Users/Administrador/CLionProjects/guia1_ej14/cmake-build-debug/CMakeFiles/guia1_ej14.dir
+C:/Users/Administrador/CLionProjects/guia1_ej14/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrador/CLionProjects/guia1_ej14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
