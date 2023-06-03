@@ -25,7 +25,7 @@ Lista * newLista ();
 void enlistar(Numero * numAInsertar, Lista * lista);
 int max(Lista * lista);
 int min(Lista * lista);
-void eliminar(Lista * lista, int min, int max);
-
+void eliminarmin(Lista * lista, int min);
+void eliminarmax(Lista * lista, int max);
 
 #endif //GUIA1_EJ14_NUMEROS_H
